@@ -1,6 +1,6 @@
 body{
     color: rgb(250, 253, 255);
-    background: black;
+    background: rgb(0, 0, 0);
     font-family: "Expletus Sans", sans-serif;
     margin: 0px;
     margin-bottom: 100px;
@@ -8,9 +8,9 @@ body{
 
 
 .chamada{
-    background: rgb(255, 94, 0);
-    margin-top:  80px;;
-    margin-bottom: 80px;
+    background: rgb(255, 72, 0);
+    margin-top:  90px;;
+    margin-bottom: 90px;
     display: flex;
     justify-content: center;
 }

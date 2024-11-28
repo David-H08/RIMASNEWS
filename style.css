@@ -14,3 +14,21 @@ body{
     display: flex;
     justify-content: center;
 }
+categoria{
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+.categoria-videos img{
+    opacity: 0.5;
+    height: 200px;
+}
+.categoria-videos img:hover{
+    opacity: 1.0;
+    border: 3px solid rgb(255, 255, 255);
+}
